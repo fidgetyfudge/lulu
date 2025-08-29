@@ -98,7 +98,7 @@
             position: relative;
         }
         #love-list li::before {
-            content: "😚";
+            content: "";
             margin-right: 8px;
         }
         .her-message-section {
@@ -166,3 +166,4 @@
             }
         }
     </style>
+
